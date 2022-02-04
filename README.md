@@ -1,5 +1,5 @@
 
-<img align="right" height="390em" src="https://raw.githubusercontent.com/gist/FelipeDeveloperFullStack/45f634874ebbacaa8ce4fcacce3f1300/raw/e741c65dcfed16f3fe44fa8a2617d2dd8986bd62/cardsvggithubprofile.svg"/>
+<img align="right" height="290em" src="https://raw.githubusercontent.com/gist/FelipeDeveloperFullStack/45f634874ebbacaa8ce4fcacce3f1300/raw/e741c65dcfed16f3fe44fa8a2617d2dd8986bd62/cardsvggithubprofile.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Felipe Miguel D.S</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FelipeDeveloperFullStack&color=yellow" alt="Profile views" /> </p>
 
@@ -33,10 +33,12 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=FelipeDeveloperFullStack&show_icons=true&theme=vision-friendly-dark" alt="FelipeDeveloperFullStack's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDeveloperFullStack&layout=compact&theme=vision-friendly-dark" alt="FelipeDeveloperFullStack's most languages"/>
-</p>
+<div align="center"> 
+  <div style="display: flex; align-items: flex-start;">
+    <img width="530em" src="https://github-readme-stats.vercel.app/api?username=FelipeDeveloperFullStack&show_icons=true&theme=radical" alt="FelipeDeveloperFullStack's stats"/>
+    <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDeveloperFullStack&layout=compact&theme=radical" alt="FelipeDeveloperFullStack's most languages"/>
+  </div>
+</div>
 
 <br><br>
 
