@@ -1,35 +1,33 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/FelipeDeveloperFullStack/45f634874ebbacaa8ce4fcacce3f1300/raw/f13673a4d813ace31ae3071a14541db79fa0b046/cardsvggithubprofile.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mayk Brito</h1>
+<img align="right" height="390em" src="https://raw.githubusercontent.com/gist/FelipeDeveloperFullStack/45f634874ebbacaa8ce4fcacce3f1300/raw/e741c65dcfed16f3fe44fa8a2617d2dd8986bd62/cardsvggithubprofile.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Felipe Miguel D.S</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FelipeDeveloperFullStack&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
+- 🔥 Jr. Software Fullstack enginner
 
-- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
+- 🔭 I’m currently working at [Tag Business Solutions](https://tagbusinesssolutions.com/)
 
-- 👨‍💻 All of my projects are available at [FelipeDeveloperFullStack.dev](https://FelipeDeveloperFullStack.dev)
-
-- ▶️ I regularly post videos on [youtube.com/FelipeDeveloperFullStack](https://youtube.com/FelipeDeveloperFullStack)
-
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
-
-- ⚡ Fun fact **Oneye 😜**
+- 👨‍💻 All of my projects are available at [https://felipemiguel.vercel.app](https://felipemiguel.vercel.app)
 
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Adonis.js](https://img.shields.io/badge/-Adonis.JS-05122A?style=flat&logo=adonisjs)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![SQL Server](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![MongoDB](https://img.shields.io/badge/-Digital%20Ocean-05122A?style=flat&logo=digitalocean)&nbsp;
 
 <br><br>
 
