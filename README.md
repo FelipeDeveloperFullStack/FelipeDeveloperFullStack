@@ -1,6 +1,10 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Felipe Miguel D.S</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FelipeDeveloperFullStack&color=yellow" alt="Profile views" /> </p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipedeveloperfullstack/)](https://www.linkedin.com/in/felipedeveloperfullstack/)&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:felipeanalista3@gmail.com)&nbsp;
+
+
 
 - 🔥 Jr. Software Fullstack enginner (A Full-Stack Engineer that loves apply his knowledge to solve problems, create amazing products and impact lives.)
 - 🔭 I’m currently working at [Tag Business Solutions](https://tagbusinesssolutions.com/)
