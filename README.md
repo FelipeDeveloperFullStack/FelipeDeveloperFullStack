@@ -2,7 +2,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Felipe Miguel D.S</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipedeveloperfullstack/)](https://www.linkedin.com/in/felipedeveloperfullstack/)&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:felipeanalista3@gmail.com)&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:felipeanalista3@gmail.com)](mailto:felipeanalista3@gmail.com)&nbsp;
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/felipemigueldsa)](mailto:felipeanalista3@gmail.com)&nbsp;
+
 
 
 
@@ -41,20 +43,6 @@
 </div>
 
 <br>
-
-## 👨🏽‍🦲 &nbsp;Social Links
-
-<p align="left" style="background:yellow">
-  <a href="https://twitter.com/felipemigueldsa" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-FelipeDeveloperFullStack-05122A?style=flat&logo=twitter" alt="twitter"/>  
-  </a>
-  <a href="https://www.linkedin.com/in/felipedeveloperfullstack" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-FelipeDeveloperFullStack-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-  </a>
-</p>
-
-
-
 
 <!--
 **FelipeDeveloperFullStack/FelipeDeveloperFullStack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
