@@ -1,15 +1,12 @@
 
-<img align="right" height="290em" src="https://raw.githubusercontent.com/gist/FelipeDeveloperFullStack/45f634874ebbacaa8ce4fcacce3f1300/raw/e741c65dcfed16f3fe44fa8a2617d2dd8986bd62/cardsvggithubprofile.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Felipe Miguel D.S</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FelipeDeveloperFullStack&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Jr. Software Fullstack enginner
-
+- 🔥 Jr. Software Fullstack enginner (A Full-Stack Engineer that loves apply his knowledge to solve problems, create amazing products and impact lives.)
 - 🔭 I’m currently working at [Tag Business Solutions](https://tagbusinesssolutions.com/)
-
 - 👨‍💻 All of my projects are available at [https://felipemiguel.vercel.app](https://felipemiguel.vercel.app)
 
-<br><br>
+
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -29,7 +26,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-Digital%20Ocean-05122A?style=flat&logo=digitalocean)&nbsp;
 
-<br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -40,7 +36,7 @@
   </div>
 </div>
 
-<br><br>
+<br>
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
