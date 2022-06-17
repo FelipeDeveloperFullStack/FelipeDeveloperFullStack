@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Felipe Miguel D.S</h1>
+<h1 align="left">Hi, I'm Felipe Miguel D.S</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipedeveloperfullstack/)](https://www.linkedin.com/in/felipedeveloperfullstack/)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:felipeanalista3@gmail.com)](mailto:felipeanalista3@gmail.com)&nbsp;
@@ -8,7 +8,7 @@
 
 
 
-- 🔥 Jr. Software Fullstack enginner (A Full-Stack Engineer that loves apply his knowledge to solve problems, create amazing products and impact lives.)
+- 🔥 Software Fullstack enginner (A Full-Stack Engineer that loves apply his knowledge to solve problems, create amazing products and impact lives.)
 - 👨‍💻 All of my projects are available at [https://felipemiguel.vercel.app](https://felipemiguel.vercel.app)
 
 
