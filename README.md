@@ -9,9 +9,6 @@
 
 
 - 🔥 Software Fullstack enginner (A Full-Stack Engineer that loves apply his knowledge to solve problems, create amazing products and impact lives.)
-- 👨‍💻 All of my projects are available at [https://felipemiguel.vercel.app](https://felipemiguel.vercel.app)
-
-
 
 ## 🛠 &nbsp;Tech Stack
 
