@@ -28,16 +28,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-Digital%20Ocean-05122A?style=flat&logo=digitalocean)&nbsp;
 
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<div align="center"> 
-  <div style="display: flex; align-items: flex-start;">
-    <img width="530em" src="https://github-readme-stats.vercel.app/api?username=FelipeDeveloperFullStack&show_icons=true&theme=radical" alt="FelipeDeveloperFullStack's stats"/>
-    <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDeveloperFullStack&layout=compact&theme=radical" alt="FelipeDeveloperFullStack's most languages"/>
-  </div>
-</div>
-
 <br>
 
 <!--
