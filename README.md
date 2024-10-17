@@ -3,10 +3,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipedeveloperfullstack/)](https://www.linkedin.com/in/felipedeveloperfullstack/)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:felipeanalista3@gmail.com)](mailto:felipeanalista3@gmail.com)&nbsp;
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/felipemigueldsa)](mailto:felipeanalista3@gmail.com)&nbsp;
-
-
-
 
 - 🔥 Software Fullstack enginner (A Full-Stack Engineer that loves apply his knowledge to solve problems, create amazing products and impact lives.)
 
